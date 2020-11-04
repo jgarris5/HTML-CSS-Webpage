@@ -1,0 +1,76 @@
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>the VERGE</title>
+    <meta name="description" content="Page Description Goes Here">
+  </head>
+  <body>
+       <!-- The page content goes here -->
+       <header>
+         <h1>The <span class="magenta">Verge</span></h1>
+
+         <nav>
+           <ul>
+             <li><a href="#">Tech</a></li>
+             <li><a href="#">Science</a></li>
+             <li><a href="#">Culture</a></li>
+             <li><a href="#">Cars</a></li>
+           </ul>
+         </nav>
+
+       </header>
+       <article>
+         <h1>Facebook videos will now automatically play sound by default.</h1>
+
+         <img src="img/facebook-img.jpg" alt="phone picture" />
+
+         <p class="intro">Facebook announced a <a href="https://newsroom.fb.com/news/2017/02/new-ways-to-watch-facebook-video/" target="_blank">
+           suite of new changes to its video platform today</a>,
+             including a new setting that will autoplay videos with the sound turned on by default.
+             This change means that, if your phone is not set to silent and you haven’t disabled
+             the feature in Facebook’s mobile settings panel, every video in the News Feed will
+             have audio fading in as you scroll past it. The switch from muting videos by default
+             follows a multi-month testing period that first surfaced last August.</p>
+
+             <p> Facebook clarified to The Verge that sound from its videos will not interrupt
+                music from Apple Music, Spotify, or any other mobile audio source. Dan Rose, Facebook’s
+                vice president of partnerships, also stressed that the company is trying not to be user-hostile
+                 with the change. “We’re going to honor the sound settings on your phone,” he said today at
+                 Recode’s Code Media conference. “If sound is on your phone, we’ll default to sound on
+                 rather than off.”</p>
+
+             <blockquote>You can turn off the autoplay sound feature in settings.
+             </blockquote>
+
+             <p>The change raises all sorts of questions, like whether unsuspecting
+               Facebook users will be caught scrolling through the News Feed at a
+               meeting or in class. “Well a few years ago when we started autoplay
+               it was very new to people,” Rose said in response to potential pitfalls.
+               “Now they’re pretty conscious” of how it works, he added. (In other words,
+               make sure you set your phone to vibrate if you’re trying to sneak a peek
+               at your feed in a sensitive situation.) Facebook says the feature can be
+               turned off by toggling the “Videos in News Feed Start With Sound”
+               option in the settings panel.</p>
+       </article>
+
+       <footer>
+         <div class="footer">
+           <h2> More from the Verge</h2>
+
+           <ul>
+            <li><a href="#">The Hawai’ian volcano that created a spectacular firehose of lava just collapsed</li>
+            <li><a href="#">Apple, Facebook, Google, and 94 others file opposition to Trump's immigration ban</li>
+            <li><a href="#">Google’s Super Bowl ad accidentally set off a lot of Google Homes</li>
+            <li><a href="#">Lady Gaga opened her Super Bowl performance with a protest anthem</li>
+            <li><a href="#">Trump is turning Elon Musk into a crony capitalist</li>
+            <li><a href="#">Why the sounds of eating make some people so angry</li>
+           </ul>
+
+      </footer>
+
+      <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+      <!-- Add your stylesheet here, before the closing HTML tag -->
+  </body>
+</html>
